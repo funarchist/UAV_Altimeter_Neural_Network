@@ -1,7 +1,4 @@
 # UAV Flight Data Determination Using Machine Learning
-This repository contains the work and findings from an internship focused on developing a scalable, end-to-end module for determining various types of UAV flight data without relying on conventional hardware sensors. The project utilized machine learning algorithms to address the challenge of accurate flight data determination.
-
-# Project Overview
 # Background
 
 The division involved specializes in UAV (Unmanned Aerial Vehicle) systems, with a subgroup aiming to innovate the determination of flight data. The goal was to eliminate the dependence on conventional hardware sensors by employing data-driven methods.
