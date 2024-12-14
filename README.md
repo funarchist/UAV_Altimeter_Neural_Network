@@ -10,7 +10,7 @@ Current methods for determining flight data rely heavily on physical sensors, wh
 # Approach
 # 1. Data Collection
 
-    Gathered flight-related data from available UAV simulations and real-world operations.
+    Gathered flight-related data from available real-world operations.
     Preprocessed data to ensure compatibility with machine learning models.
 
 # 2. Model Development
